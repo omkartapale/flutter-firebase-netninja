@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24855817122",
+    "project_id": "ninja-brew-flutter-firebase",
+    "storage_bucket": "ninja-brew-flutter-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24855817122:android:46c1e77a8ea1f9636b20fb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_netninja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUCbb2ywduHwc4ClLRPUxMcy1YNBWjvXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
